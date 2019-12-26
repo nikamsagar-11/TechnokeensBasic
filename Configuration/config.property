@@ -1,0 +1,5 @@
+ChromeDriver= ./Driver/chromedriver.exe
+
+FirefoxDriver= ./Driver/geckodriver.exe
+
+URL=http://www.demo.rspmultifamily.com/admin

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="FireFoxTest(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="RSP.Test.LoginTest">
+        <methods>
+          <include name="testLogin"/>
+          <include name="setup"/>
+          <include name="TeardownTest"/>
+        </methods>
+      </class> <!-- RSP.Test.LoginTest -->
+    </classes>
+  </test> <!-- FireFoxTest(failed) -->
+  <test thread-count="5" name="Chrometest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="RSP.Test.LoginTest">
+        <methods>
+          <include name="testLogin"/>
+          <include name="setup"/>
+          <include name="TeardownTest"/>
+        </methods>
+      </class> <!-- RSP.Test.LoginTest -->
+    </classes>
+  </test> <!-- Chrometest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

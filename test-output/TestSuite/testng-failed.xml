@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [TestSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="FireFoxTest(failed)">
+    <classes>
+      <class name="RSP.Test.LoginTest">
+        <methods>
+          <include name="testLogin"/>
+          <include name="setup"/>
+          <include name="TeardownTest"/>
+        </methods>
+      </class> <!-- RSP.Test.LoginTest -->
+    </classes>
+  </test> <!-- FireFoxTest(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
