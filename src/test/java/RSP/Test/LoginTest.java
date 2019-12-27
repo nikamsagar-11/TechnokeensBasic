@@ -24,6 +24,8 @@ import Utilities.Screenshotutility;
 
 public class LoginTest {
 
+	String srcPath="D:\\Automation-Workspace\\Wrokspace\\Technokeens.Nashik\\src\\test\\java\\RSP\\screenshot\\";
+
 	WebDriver driver = null;
 	ConfigRead config = new ConfigRead();
 
@@ -49,11 +51,11 @@ public class LoginTest {
 		{
 			System.out.println("element found");
 			Screenshotutility obj=new Screenshotutility();
-    		obj.captureScreenShot(driver);
+    		obj.captureScreenShot(driver,srcPath);
 		}
 		else {
 			Screenshotutility obj=new Screenshotutility();
-    		obj.captureScreenShot(driver);
+    		obj.captureScreenShot(driver,srcPath);
 			System.out.println("Element not present");
 		}
 	}

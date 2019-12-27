@@ -3,13 +3,16 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="RSP.Test.LoginDDT">
+      <class name="Utilities.testGoogle">
         <methods>
-          <include name="testLogin" invocation-numbers="0 4"/>
-          <include name="tearDown"/>
-          <include name="setUp"/>
+          <include name="skipTest"/>
+          <include name="getResult"/>
+          <include name="failTest"/>
+          <include name="test1"/>
+          <include name="startReport"/>
+          <include name="endReport"/>
         </methods>
-      </class> <!-- RSP.Test.LoginDDT -->
+      </class> <!-- Utilities.testGoogle -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

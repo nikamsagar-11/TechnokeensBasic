@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-27T09:55:10Z" name="Suite" finished-at="2019-12-27T09:59:43Z" duration-ms="272676">
+    <groups>
+    </groups>
+    <test started-at="2019-12-27T09:55:10Z" name="Test" finished-at="2019-12-27T09:59:43Z" duration-ms="272676">
+      <class name="RSP.Test.LoginDDT">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:RSP.Test.LoginDDT@15888343]" started-at="2019-12-27T09:55:10Z" name="setUp" finished-at="2019-12-27T09:55:15Z" duration-ms="5172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:RSP.Test.LoginTest@33ecda92]" started-at="2019-12-27T09:55:15Z" name="setUp" finished-at="2019-12-27T09:55:19Z" duration-ms="3801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:RSP.Test.LoginDDT@15888343]" started-at="2019-12-27T09:55:20Z" name="setUp" finished-at="2019-12-27T09:55:24Z" duration-ms="3854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:RSP.Test.LoginDDT@15888343]" started-at="2019-12-27T09:55:24Z" name="testLogin" data-provider="data" finished-at="2019-12-27T09:56:05Z" duration-ms="40793" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Result]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:RSP.Test.LoginDDT@15888343]" started-at="2019-12-27T09:56:05Z" name="tearDown" finished-at="2019-12-27T09:56:06Z" duration-ms="1010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:RSP.Test.LoginDDT@15888343]" started-at="2019-12-27T09:56:06Z" name="setUp" finished-at="2019-12-27T09:56:10Z" duration-ms="4000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:RSP.Test.LoginDDT@15888343]" started-at="2019-12-27T09:56:10Z" name="testLogin" data-provider="data" finished-at="2019-12-27T09:56:57Z" duration-ms="46588" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sagar.nikam@technokeens.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:RSP.Test.LoginDDT@15888343]" started-at="2019-12-27T09:56:57Z" name="tearDown" finished-at="2019-12-27T09:56:58Z" duration-ms="977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:RSP.Test.LoginDDT@15888343]" started-at="2019-12-27T09:56:58Z" name="setUp" finished-at="2019-12-27T09:57:01Z" duration-ms="3397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:RSP.Test.LoginDDT@15888343]" started-at="2019-12-27T09:57:01Z" name="testLogin" data-provider="data" finished-at="2019-12-27T09:57:36Z" duration-ms="35287" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sagar.nikam@technokeens.co]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:RSP.Test.LoginDDT@15888343]" started-at="2019-12-27T09:57:36Z" name="tearDown" finished-at="2019-12-27T09:57:37Z" duration-ms="812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:RSP.Test.LoginDDT@15888343]" started-at="2019-12-27T09:57:37Z" name="setUp" finished-at="2019-12-27T09:57:41Z" duration-ms="3416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:RSP.Test.LoginDDT@15888343]" started-at="2019-12-27T09:57:41Z" name="testLogin" data-provider="data" finished-at="2019-12-27T09:58:22Z" duration-ms="41458" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[orgadmin@techno.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:RSP.Test.LoginDDT@15888343]" started-at="2019-12-27T09:58:22Z" name="tearDown" finished-at="2019-12-27T09:58:23Z" duration-ms="933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:RSP.Test.LoginDDT@15888343]" started-at="2019-12-27T09:58:23Z" name="setUp" finished-at="2019-12-27T09:58:27Z" duration-ms="3852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:RSP.Test.LoginDDT@15888343]" started-at="2019-12-27T09:58:27Z" name="testLogin" data-provider="data" finished-at="2019-12-27T09:59:07Z" duration-ms="40483" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mdmd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1212]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Failed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:RSP.Test.LoginDDT@15888343]" started-at="2019-12-27T09:59:07Z" name="tearDown" finished-at="2019-12-27T09:59:08Z" duration-ms="1014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:RSP.Test.LoginTest@33ecda92]" started-at="2019-12-27T09:59:42Z" name="tearDown" finished-at="2019-12-27T09:59:43Z" duration-ms="568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:RSP.Test.LoginDDT@15888343]" started-at="2019-12-27T09:59:42Z" name="tearDown" finished-at="2019-12-27T09:59:42Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- RSP.Test.LoginDDT -->
+      <class name="RSP.Test.LoginTest">
+        <test-method signature="testLogin()[pri:0, instance:RSP.Test.LoginTest@33ecda92]" started-at="2019-12-27T09:59:08Z" name="testLogin" finished-at="2019-12-27T09:59:42Z" duration-ms="34165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- RSP.Test.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

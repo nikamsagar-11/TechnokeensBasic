@@ -1,0 +1,308 @@
+2019-12-27 11:35:18,213 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 11:35:18,233 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 11:35:22,085 - Login test cases while sending data from Excel sheet -INFO - user redirected towards the read excel file class to read data in object form
+2019-12-27 11:35:22,993 - Login test cases while sending data from Excel sheet -INFO - user redirected towards the read excel file class to read data in object form
+2019-12-27 11:35:27,429 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 11:35:27,447 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 11:35:34,449 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 11:35:54,883 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 11:35:59,946 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 11:35:59,956 - Login test cases while sending data from Excel sheet -INFO - User failed to login system
+2019-12-27 11:35:59,959 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Failed
+2019-12-27 11:36:00,295 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowFailed
+2019-12-27 11:36:12,455 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 11:36:12,462 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 11:36:19,377 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 11:36:39,797 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 11:36:44,909 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 11:36:44,910 - Login test cases while sending data from Excel sheet -INFO - User is logged in successfully to system
+2019-12-27 11:36:44,911 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 11:36:45,035 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 11:37:00,686 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 11:37:00,692 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 11:37:08,746 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 11:37:29,165 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 11:37:34,180 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 11:37:34,253 - Login test cases while sending data from Excel sheet -INFO - User not found on the system with credentials
+2019-12-27 11:37:34,254 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 11:37:34,370 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 11:37:39,717 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 11:37:39,726 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 11:37:45,271 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 11:38:05,832 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 11:38:10,903 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 11:38:10,904 - Login test cases while sending data from Excel sheet -INFO - User is logged in successfully to system
+2019-12-27 11:38:10,932 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 11:38:11,125 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 11:38:27,332 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 11:38:27,342 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 11:38:32,493 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 11:38:52,831 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 11:38:57,862 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 11:38:57,886 - Login test cases while sending data from Excel sheet -INFO - User failed to login system
+2019-12-27 11:38:57,888 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Failed
+2019-12-27 11:38:57,982 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowFailed
+2019-12-27 12:00:46,112 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 12:00:46,167 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 12:00:49,013 - Login test cases while sending data from Excel sheet -INFO - user redirected towards the read excel file class to read data in object form
+2019-12-27 12:00:49,858 - Login test cases while sending data from Excel sheet -INFO - user redirected towards the read excel file class to read data in object form
+2019-12-27 12:00:53,808 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 12:00:53,829 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 12:00:58,911 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 12:01:19,411 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 12:01:24,937 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 12:01:24,951 - Login test cases while sending data from Excel sheet -INFO - User failed to login system
+2019-12-27 12:01:24,952 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Failed
+2019-12-27 12:01:25,319 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowFailed
+2019-12-27 12:01:36,077 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 12:01:36,088 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 12:01:41,048 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 12:02:01,437 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 12:02:06,531 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 12:02:06,532 - Login test cases while sending data from Excel sheet -INFO - User is logged in successfully to system
+2019-12-27 12:02:06,532 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 12:02:06,608 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 12:02:21,636 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 12:02:21,642 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 12:02:28,061 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 12:02:48,415 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 12:02:53,443 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 12:02:53,522 - Login test cases while sending data from Excel sheet -INFO - User not found on the system with credentials
+2019-12-27 12:02:53,523 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 12:02:53,596 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 12:02:57,233 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 12:02:57,242 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 12:03:03,914 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 12:03:24,310 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 12:03:29,394 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 12:03:29,395 - Login test cases while sending data from Excel sheet -INFO - User is logged in successfully to system
+2019-12-27 12:03:29,395 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 12:03:29,457 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 12:03:44,308 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 12:03:44,313 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 12:03:48,802 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 12:04:09,123 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 12:04:14,149 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 12:04:14,163 - Login test cases while sending data from Excel sheet -INFO - User failed to login system
+2019-12-27 12:04:14,164 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Failed
+2019-12-27 12:04:14,231 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowFailed
+2019-12-27 12:49:35,406 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 12:49:35,496 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 12:49:39,392 - Login test cases while sending data from Excel sheet -INFO - user redirected towards the read excel file class to read data in object form
+2019-12-27 12:49:40,444 - Login test cases while sending data from Excel sheet -INFO - user redirected towards the read excel file class to read data in object form
+2019-12-27 12:49:45,135 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 12:49:45,143 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 12:49:50,997 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 12:50:11,568 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 12:50:16,703 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 12:50:16,743 - Login test cases while sending data from Excel sheet -INFO - User failed to login system
+2019-12-27 12:50:16,748 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Failed
+2019-12-27 12:50:17,059 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowFailed
+2019-12-27 12:50:28,419 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 12:50:28,425 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 12:50:39,574 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 12:51:00,071 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 12:51:05,183 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 12:51:05,183 - Login test cases while sending data from Excel sheet -INFO - User is logged in successfully to system
+2019-12-27 12:51:05,185 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 12:51:05,347 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 12:51:31,746 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 12:51:31,760 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 12:51:43,322 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 12:52:03,707 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 12:52:08,766 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 12:52:08,835 - Login test cases while sending data from Excel sheet -INFO - User not found on the system with credentials
+2019-12-27 12:52:08,837 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 12:52:08,946 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 12:52:14,502 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 12:52:14,509 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 12:52:19,999 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 12:52:40,370 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 12:52:45,435 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 12:52:45,436 - Login test cases while sending data from Excel sheet -INFO - User is logged in successfully to system
+2019-12-27 12:52:45,437 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 12:52:45,967 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 12:53:02,173 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 12:53:02,181 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 12:53:08,139 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 12:53:28,507 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 12:53:33,520 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 12:53:33,529 - Login test cases while sending data from Excel sheet -INFO - User failed to login system
+2019-12-27 12:53:33,530 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Failed
+2019-12-27 12:53:33,613 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowFailed
+2019-12-27 12:57:31,721 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 12:57:31,778 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 12:57:35,652 - Login test cases while sending data from Excel sheet -INFO - user redirected towards the read excel file class to read data in object form
+2019-12-27 12:57:36,975 - Login test cases while sending data from Excel sheet -INFO - user redirected towards the read excel file class to read data in object form
+2019-12-27 12:57:42,426 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 12:57:42,481 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 12:58:14,727 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 12:58:35,630 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 12:58:41,128 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 12:58:41,143 - Login test cases while sending data from Excel sheet -INFO - User failed to login system
+2019-12-27 12:58:41,163 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Failed
+2019-12-27 12:58:41,523 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowFailed
+2019-12-27 12:58:52,655 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 12:58:52,663 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 12:58:59,890 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 12:59:20,341 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 12:59:25,467 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 12:59:25,467 - Login test cases while sending data from Excel sheet -INFO - User is logged in successfully to system
+2019-12-27 12:59:25,468 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 12:59:25,593 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 12:59:41,244 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 12:59:41,250 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 12:59:46,707 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 13:00:07,059 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 13:00:12,075 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 13:00:12,124 - Login test cases while sending data from Excel sheet -INFO - User not found on the system with credentials
+2019-12-27 13:00:12,126 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 13:00:12,307 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 13:00:16,151 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 13:00:16,158 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 13:00:26,016 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 13:00:46,384 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 13:00:51,444 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 13:00:51,445 - Login test cases while sending data from Excel sheet -INFO - User is logged in successfully to system
+2019-12-27 13:00:51,446 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 13:00:51,525 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 13:01:08,482 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 13:01:08,493 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 13:01:43,169 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 13:02:03,505 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 13:02:08,534 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 13:02:08,546 - Login test cases while sending data from Excel sheet -INFO - User failed to login system
+2019-12-27 13:02:08,547 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Failed
+2019-12-27 13:02:08,628 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowFailed
+2019-12-27 13:34:46,991 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 13:34:47,123 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 13:34:50,465 - Login test cases while sending data from Excel sheet -INFO - user redirected towards the read excel file class to read data in object form
+2019-12-27 13:34:51,494 - Login test cases while sending data from Excel sheet -INFO - user redirected towards the read excel file class to read data in object form
+2019-12-27 13:34:55,183 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 13:34:55,189 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 13:35:01,320 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 13:35:21,800 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 13:35:26,919 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 13:35:26,935 - Login test cases while sending data from Excel sheet -INFO - User failed to login system
+2019-12-27 13:35:26,941 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Failed
+2019-12-27 13:35:27,306 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowFailed
+2019-12-27 13:35:38,198 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 13:35:38,204 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 13:35:45,517 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 13:36:05,875 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 13:36:10,971 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 13:36:10,972 - Login test cases while sending data from Excel sheet -INFO - User is logged in successfully to system
+2019-12-27 13:36:10,973 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 13:36:11,063 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 13:36:26,498 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 13:36:26,503 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 13:36:33,594 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 13:36:53,977 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 13:36:59,006 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 13:36:59,072 - Login test cases while sending data from Excel sheet -INFO - User not found on the system with credentials
+2019-12-27 13:36:59,073 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 13:36:59,148 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 13:37:03,426 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 13:37:03,434 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 13:37:09,389 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 13:37:29,827 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 13:37:34,895 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 13:37:34,896 - Login test cases while sending data from Excel sheet -INFO - User is logged in successfully to system
+2019-12-27 13:37:34,896 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 13:37:34,984 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 13:37:49,739 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 13:37:49,750 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 13:37:56,959 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 13:38:17,302 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 13:38:22,329 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 13:38:22,355 - Login test cases while sending data from Excel sheet -INFO - User failed to login system
+2019-12-27 13:38:22,359 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Failed
+2019-12-27 13:38:22,438 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowFailed
+2019-12-27 13:59:53,550 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 13:59:53,571 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 13:59:56,995 - Login test cases while sending data from Excel sheet -INFO - user redirected towards the read excel file class to read data in object form
+2019-12-27 13:59:57,915 - Login test cases while sending data from Excel sheet -INFO - user redirected towards the read excel file class to read data in object form
+2019-12-27 14:00:01,613 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 14:00:01,620 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 14:00:07,902 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 14:00:28,486 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 14:00:33,584 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 14:00:33,595 - Login test cases while sending data from Excel sheet -INFO - User failed to login system
+2019-12-27 14:00:33,600 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Failed
+2019-12-27 14:00:33,949 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowFailed
+2019-12-27 14:00:44,199 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 14:00:44,208 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 14:00:51,961 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 14:01:12,358 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 14:01:17,462 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 14:01:17,462 - Login test cases while sending data from Excel sheet -INFO - User is logged in successfully to system
+2019-12-27 14:01:17,463 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 14:01:17,536 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 14:01:32,863 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 14:01:32,869 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 14:01:41,387 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 14:02:01,764 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 14:02:06,788 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 14:02:06,863 - Login test cases while sending data from Excel sheet -INFO - User not found on the system with credentials
+2019-12-27 14:02:06,864 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 14:02:06,924 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 14:02:10,434 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 14:02:10,440 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 14:02:20,685 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 14:02:41,065 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 14:02:46,139 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 14:02:46,139 - Login test cases while sending data from Excel sheet -INFO - User is logged in successfully to system
+2019-12-27 14:02:46,140 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 14:02:46,204 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 14:03:00,721 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 14:03:00,727 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 14:03:06,038 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 14:03:26,371 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 14:03:31,402 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 14:03:31,418 - Login test cases while sending data from Excel sheet -INFO - User failed to login system
+2019-12-27 14:03:31,420 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Failed
+2019-12-27 14:03:31,498 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowFailed
+2019-12-27 15:25:15,950 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 15:25:15,997 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 15:25:19,863 - Login test cases while sending data from Excel sheet -INFO - user redirected towards the read excel file class to read data in object form
+2019-12-27 15:25:20,877 - Login test cases while sending data from Excel sheet -INFO - user redirected towards the read excel file class to read data in object form
+2019-12-27 15:25:24,731 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 15:25:24,738 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 15:25:32,956 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 15:25:53,441 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 15:25:58,562 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 15:25:58,603 - Login test cases while sending data from Excel sheet -INFO - User failed to login system
+2019-12-27 15:25:58,616 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Failed
+2019-12-27 15:25:58,934 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowFailed
+2019-12-27 15:26:10,539 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 15:26:10,544 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 15:26:20,513 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 15:26:40,888 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 15:26:46,017 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 15:26:46,017 - Login test cases while sending data from Excel sheet -INFO - User is logged in successfully to system
+2019-12-27 15:26:46,019 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 15:26:46,206 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 15:27:01,503 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 15:27:01,508 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 15:27:10,673 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 15:27:31,515 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 15:27:36,597 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 15:27:36,663 - Login test cases while sending data from Excel sheet -INFO - User not found on the system with credentials
+2019-12-27 15:27:36,664 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 15:27:36,794 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 15:27:41,018 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 15:27:41,023 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 15:27:46,075 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 15:28:06,423 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 15:28:11,512 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 15:28:11,513 - Login test cases while sending data from Excel sheet -INFO - User is logged in successfully to system
+2019-12-27 15:28:11,514 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Pass
+2019-12-27 15:28:11,604 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowPass
+2019-12-27 15:28:27,260 - Login test cases while sending data from Excel sheet -INFO - Browser Opened
+2019-12-27 15:28:27,266 - Login test cases while sending data from Excel sheet -INFO - window is maximized
+2019-12-27 15:28:35,564 - Login test cases while sending data from Excel sheet -INFO - user readed the data
+2019-12-27 15:28:55,928 - Login test cases while sending data from Excel sheet -INFO - Test clicked on the login button
+2019-12-27 15:29:00,944 - Login test cases while sending data from Excel sheet -INFO - Test verifying the result and moves to write result
+2019-12-27 15:29:00,959 - Login test cases while sending data from Excel sheet -INFO - User failed to login system
+2019-12-27 15:29:00,960 - Login test cases while sending data from Excel sheet -INFO - the is redirecting towards printng the result Failed
+2019-12-27 15:29:01,110 - Login test cases while sending data from Excel sheet -INFO - the result has been written on the rowFailed

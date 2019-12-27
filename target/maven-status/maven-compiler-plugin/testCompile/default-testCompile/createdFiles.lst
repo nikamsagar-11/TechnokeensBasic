@@ -1,2 +1,4 @@
-RSP\Test\LoginTest.class
+RSP\Test\getGoogle.class
 RSP\Test\TestBase.class
+RSP\Test\LoginDDT.class
+RSP\Test\LoginTest.class

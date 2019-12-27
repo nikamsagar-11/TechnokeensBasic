@@ -3,3 +3,4 @@ RSP\Pages\LoginPage.class
 Utilities\ConfigRead.class
 Utilities\ReadWriteExcel.class
 RSP\Pages\DashboardPage.class
+Utilities\ExtentReportsClass.class
